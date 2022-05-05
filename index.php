@@ -37,7 +37,7 @@ https://www.tooplate.com/view/2114-pixie
 # $output = shell_exec('echo $HOSTNAME');
 $output = shell_exec('curl http://169.254.169.254/latest/meta-data/public-hostname');
 echo "<h1><center><pre>$output</pre></center></h1>";
-echo "<h1><center> backend 2</center></h1>"
+echo "<h1><center> backend 1</center></h1>"
 ?>
             </span>
           </div>
